@@ -1,3 +1,4 @@
+> 本项目为fork自用，部署在cloudflare pages上
 # uptime
 
 一个基于 UptimeRobot API 的在线状态面板
